@@ -25,9 +25,9 @@ Pages metadata endpoint: https://api.github.com/repositories/1448747472/pages
 
 Contact navigation uses `/contact/` and the branded OddPebble YouTube channel. No unverified email address or private support inbox is advertised.
 
-## Remaining Google account settings
+## Owner-reported Google Branding update
 
-The account owner must separately update Google OAuth Branding homepage, privacy, terms and authorized-domain settings to the verified host above. The application display name should be **OddPebble**. Any support/developer contact email must be a genuinely owned and verified address or appropriate group; no replacement address is invented here. These Google settings have not been independently verified by this site deployment.
+On 8 November 2026 the account owner reported updating Google OAuth Branding for **OddPebble** to the verified branded site. Subsequent YouTube/Analytics runtime access succeeded. The Google Console fields and verification approval have not been independently inspected; successful runtime access does not prove all saved branding values. No contact email value is published or invented here.
 
 The GitHub rename does not itself require replacing an existing OAuth client or token. Google Cloud project ID remains `oddpebble-youtube`.
 
